@@ -1,2 +1,3 @@
-ngon 
-nguoi yeu em hoi nhung luc em owr dayb
+ngon
+nguoi la oi cuoi troi
+
