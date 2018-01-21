@@ -1,1 +1,2 @@
-ngon
+ngon 
+nguoi yeu em hoi nhung luc em owr dayb
